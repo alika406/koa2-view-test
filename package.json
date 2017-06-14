@@ -22,6 +22,7 @@
   "homepage": "https://github.com/alika406/koa2-view-test#readme",
   "dependencies": {
     "koa": "^2.2.0",
-    "koa-router": "^7.2.0"
+    "koa-router": "^7.2.0",
+    "koa-static": "^3.0.0"
   }
 }
